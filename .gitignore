@@ -1,0 +1,8 @@
+.vercel
+/venv
+__pycache__/
+.idea/
+.idea
+.DS_STORE
+45-igra-prestolov-2011
+30522-istrebitel-demonov-tv-1-2019

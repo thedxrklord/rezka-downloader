@@ -1,0 +1,2 @@
+HdRezkaApi
+requests
